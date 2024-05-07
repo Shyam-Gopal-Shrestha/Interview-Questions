@@ -1,8 +1,21 @@
 # JS interview questions
 
 1. Explain DOM to a 7-year-old kid
-2. What is variable
-3. what is syntax in programming language
+
+- DOM stands for "Document Object Model". The web page is whole document and every thing we see in webpage is object like text, button, image, link. These all objects are connected with each other and DOM helps us to find each object in webpage and gives us way to manipulate them like change style, hide/show, change content in webpage.
+
+2. What is variable?
+
+- Variable are container which can stores data in different form and we can referenced and manipulate them over and again. In JS variables are defined using keywords:
+- var,
+- let and
+- const.
+
+3. what is syntax in programming language?
+
+- Syntax are set of rules which is predefined in programming language. It defines how statements and expressions are formed and arranged to create valid code.
+  syntax may contains keywords, symbols, operators, variables and constant, data types, control structure, statement, expressions.
+
 4. write about the comment in JS
 5. what are the different ways of declaring variables in JS
 6. when to use var, let of const?
